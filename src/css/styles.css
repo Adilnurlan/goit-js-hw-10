@@ -10,11 +10,22 @@ body {
   background-color: #fafafa;
   color: #212121;
   line-height: 1.5;
+  background-color: lightblue;
 }
 
 #search-box {
+  display: flex;
+  margin: auto;
   font: inherit;
   padding: 8px;
-  max-width: 320px;
+  max-width: 620px;
   margin-bottom: 16px;
+  width: 320px
+}
+
+.country-list {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  list-style-type: none;
 }
