@@ -29,3 +29,9 @@ body {
   text-align: center;
   list-style-type: none;
 }
+
+.country-info {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
